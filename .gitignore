@@ -1,0 +1,8 @@
+# Ignore Android build files
+android/
+
+# Ignore iOS build files
+ios/
+
+# Ignore Node.js dependencies
+node_modules/

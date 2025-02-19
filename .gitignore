@@ -6,3 +6,6 @@ ios/
 
 # Ignore Node.js dependencies
 node_modules/
+
+# Keystore
+my-app-key.keystore
